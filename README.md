@@ -1,4 +1,4 @@
-<h1 align="center">Hi Folks|👋</h1>
+<h1 align="center">Hi Folks!👋</h1>
 <h4 align="center">My name is Pranay Kashyap and I'm a tech and gaming enthusiast, interested in contributing to open source projects. I'm from India living in Uttar Pradesh and currently pursuing my bachelors degree in Information Technology from National Institute of Technology, Srinagar.</h3>
 
 <br>
