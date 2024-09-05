@@ -28,6 +28,5 @@ You can contact me via email at pk2931@nyu.edu or feel free to DM me on LinkedIn
 <br>
 <br>
 
-<h3 align="left">Recent Projects</h3>
-https://github.com/delta1908/Vehical-Detection<br>
-https://github.com/delta1908/Hackerearth-Machine-Learning-Contest-Prediction-of-severity-of-a-plane-crash
+<h3 align="left">Research Papers and Patents</h3>
+https://scholar.google.com/citations?user=kxzrCf4AAAAJ&hl=en
