@@ -1,5 +1,7 @@
 <h1 align="center">Hi Folks!👋</h1>
-<h4 align="center">My name is Pranay Kashyap and I'm a tech and gaming enthusiast, interested in contributing to open source projects. I'm from India living in Uttar Pradesh and currently pursuing my bachelors degree in Information Technology from National Institute of Technology, Srinagar.</h3>
+<h4 align="center">I am an incoming MS student at NYU Tandon School of Engineering, starting Fall 2024. I'm a tech and gaming enthusiast with a keen interest in computer vision and machine learning. With over 2 years of experience at Samsung Research, I specialized in the Video AI domain within the Ondevice AI team. My work focused on developing lightweight deep neural network architectures to address various computer vision tasks related to video analysis. During my time at Samsung, I published 5 research papers in top conferences (ICASSP, WACV, and CVIP), and secured 3 A1 grade international patents.
+
+You can contact me via email at pk2931@nyu.edu or feel free to DM me on LinkedIn.</h3>
 
 <br>
 <br>
